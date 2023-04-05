@@ -6,3 +6,5 @@ def goodbye():
     
 hello()
 goodbye()
+
+"""Added function goodbye() to print 'goodbye.'"""
